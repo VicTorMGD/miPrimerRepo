@@ -14,3 +14,5 @@ un commit mas desde hgithub para fetch
 ok aqui estamos 
 
 vamos a hacer un pull con este commit
+
+aprendiendo git fetc aaaa
