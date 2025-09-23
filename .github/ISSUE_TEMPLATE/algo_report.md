@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Algo report
 about: Crea un reporte de error para ayudarte a mejorar
 title: "[BUG] Descripción breve"
 labels: bug
